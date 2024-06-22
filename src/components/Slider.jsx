@@ -80,7 +80,7 @@ const Slider = () => {
                 <Typography variant="h4" component="h4" color="#5EA3A3">
                   {card.title}
                 </Typography>
-                <Typography variant="h4" component="h4" color="#5EA3A3">
+                <Typography variant="h4" component="h4" color="#5EA3A3" textAlign="center">
                   {card.content}
                 </Typography>
               </Box>

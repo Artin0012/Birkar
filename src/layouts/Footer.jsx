@@ -51,7 +51,7 @@ function Footer() {
           </Box>
         </StyledBox>
         <Box mt={4}>
-        <Typography component="h5" variant="h5" color={"#5EA3A3"}>با تشکر از کسانی که تو این پروژه به ما کمک کردند</Typography>
+        <Typography component="h5" variant="h5" color={"#5EA3A3"} textAlign="center">با تشکر از کسانی که تو این پروژه به ما کمک کردند</Typography>
         </Box>
       </StyledContainer>
     </Paper>
